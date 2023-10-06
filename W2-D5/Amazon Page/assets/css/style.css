@@ -1,0 +1,109 @@
+/* Your styles here */
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #eaedee;
+  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: content-box;
+}
+h1,
+h2,
+h3 {
+  margin: 0;
+}
+.banner {
+  background-color: #21303e;
+}
+.banner img {
+  width: 10%;
+  margin: 10px 0;
+  margin-left: 20px;
+}
+.testobianco {
+  color: white;
+  background-color: #36485a;
+}
+nav table td {
+  margin: 0;
+  padding: 10px;
+  padding-left: 20px;
+}
+main {
+  margin: 30px;
+}
+#bloccoarancione {
+  background-color: #f56500;
+  text-align: center;
+  margin-bottom: 30px;
+  margin: 0;
+  padding: 10px 0;
+  margin-bottom: 10px;
+}
+#bloccoverde {
+  background-image: url(../images/bg-image.png);
+  background-size: cover;
+  text-align: center;
+  margin: 0;
+}
+#bloccoverde h1 {
+  padding-top: 4px;
+  padding-bottom: 10px;
+}
+
+#bloccoverde h3 {
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+#perfectgift {
+  background-color: white;
+  margin: 50px 0;
+  padding-top: 20px;
+}
+
+#perfectgift h2 {
+  margin-left: 20px;
+  margin-top: 1px;
+}
+main a {
+  color: #3d6a81;
+  font-size: 1rem;
+  text-decoration: none;
+}
+
+#blocchimg img {
+  width: 165px;
+  max-height: 500px;
+  min-height: 200px;
+  margin: 15px;
+  border-radius: 15px;
+}
+#blocchimg {
+  margin: 10px;
+  margin-left: 2px;
+  background-color: white;
+}
+.blocchicentrali img {
+  width: 100%;
+}
+#scrolltotop {
+  text-align: center;
+  padding: 20px;
+  font-size: 1.1em;
+}
+aside a {
+  color: white;
+  padding: 20px;
+  font-size: 1rem;
+}
+.titolicentrali {
+  text-align: center;
+}
+
+#ultimo {
+  text-align: center;
+}
+#ultimo img {
+  width: 15%;
+  margin: 50px 0;
+}
