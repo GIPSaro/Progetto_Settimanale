@@ -147,8 +147,9 @@ const charactersArray = ["g", "n", "u", "z", "d"];
 console.log(charactersArray);
 
 const positionArr = [];
-for (let i = 0; i < positionArr.length; i++) {
+for (let i = 0; i < charactersArray.length; i++) {
   const character = charactersArray[i];
+
   switch (character) {
     case "a":
       positionArr.push(1);
@@ -214,7 +215,6 @@ for (let i = 0; i < positionArr.length; i++) {
       positionArr.push(21);
       break;
   }
-  console.log(positionArr);
 }
 
 console.log(positionArr);
