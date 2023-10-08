@@ -81,21 +81,20 @@ main a {
 }
 
 #blocchimg img {
-  width: 165px;
-  max-height: 500px;
-  min-height: 200px;
-  margin: 26px;
+  width: 225px;
+  max-height: 450px;
+  min-height: 250px;
+
   border-radius: 15px;
   object-fit: cover;
   box-shadow: 2px 2px 4px #afaeae;
 }
 
 #blocchimg {
-  margin: 10px;
-  margin-left: 2px;
+  margin-left: 0px;
   background-color: white;
   padding-left: 20px;
-  padding-right: 20px;
+  font-size: 300px;
 }
 .blocchicentrali img {
   width: 100%;
